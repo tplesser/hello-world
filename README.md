@@ -3,4 +3,4 @@ intro to GitHub
 
 Hello all
 
-I'm trying Github out. How am I doing?
+I'm trying GitHub out. How am I doing?
